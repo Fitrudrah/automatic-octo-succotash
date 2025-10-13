@@ -1,59 +1,35 @@
-<header>
+Copyright (c) 2009-2013 Bitcoin Developers  
+Copyright (c) 2011-2013 FitCoin Developers  
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this software and associated documentation files (the "Software"), to deal  
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Software, and to permit persons to whom the Software is  
+furnished to do so, subject to the following conditions:  
 
-# GitHub Pages
+The above copyright notice and this permission notice shall be included in  
+all copies or substantial portions of the Software.  
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN  
+THE SOFTWARE.  
 
-</header>
+https://github.com/fitcoin786  
+Integration request https://github.com/MrEngineer13 for project planning & resubmit the Pull request as mentioned mailed nvnv786786@gmail.com to webmaster@fitcoins.net for domain.  
 
-<!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
--->
+Fitrudrah's FutureCoin FITCOIN https://share.google/S03rIl77Dylo9SirE  
 
-## Step 2: Configure your site
+Ftc $0.00000916 USD price today, Fitcoin live chart, forecast | DEXTools https://share.google/PmKBdZR4BvdZ5uoDA  
 
-_You turned on GitHub Pages! :tada:_
+Join me on StepsApp! Track your steps and compete with friends. Download the app and tap the link to join the group: https://invite.steps.app/zkK1vmJRdARK  
 
-We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
+Ftc $0.0₅79566 | Birdeye https://share.google/KifEAZkrCJu9Tup3e  
 
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
+HealthBazar https://share.google/y61fbUhB3bjD85Qc6  
 
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
-
-### :keyboard: Activity: Configure your site
-
-1. Browse to the `_config.yml` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
-   ```yml
-   theme: minima
-   ```
-1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
-1. Commit your changes.
-1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+Ftc Ca 5cKaxcoLhjc5A3gUD9nCFRfm69iMiggTHpafz4Gipump
