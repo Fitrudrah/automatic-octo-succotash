@@ -20,7 +20,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.  
 
 https://github.com/fitcoin786  
-Integration request https://github.com/MrEngineer13 for project planning & resubmit the Pull request as mentioned mailed nvnv786786@gmail.com to webmaster@fitcoins.net for domain.  
+Integration request https://github.com/MrEngineer13 for project planning & resubmit the Pull request as mentioned mailed nvnv786786@gmail.com to webmaster@fitcoins.net for domain.  https://github.com/fitcoins/fitcoin/blob/master/bitcoin-qt.pro
 
 Fitrudrah's FutureCoin FITCOIN https://share.google/S03rIl77Dylo9SirE  
 
